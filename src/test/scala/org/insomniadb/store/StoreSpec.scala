@@ -1,6 +1,5 @@
-package example
+package org.insomniadb.store
 
-import org.insomniadb.store.{MorselDescription, Store}
 import org.scalatest._
 
 class StoreSpec extends FlatSpec with Matchers {
